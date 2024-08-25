@@ -1,0 +1,1 @@
+The "Portfolio" project is a web-based platform designed to showcase individual or team work, skills, and achievements in a professional and organized manner. Whether you are an artist, developer, designer, or any professional looking to display your work, this project allows users to create a visually appealing and easily navigable portfolio.
